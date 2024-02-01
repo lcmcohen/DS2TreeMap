@@ -16,7 +16,6 @@ public class MyTreeMapExample {
 	}
 
 	/**
-	 * @param map
 	 * @param n 
 	 */
 	private static void putRandomStrings(int n) {
@@ -34,7 +33,6 @@ public class MyTreeMapExample {
 	}
 	
 	/**
-	 * @param map
 	 * @param n 
 	 */
 	private static void putTimestamps(int n) {
@@ -62,7 +60,6 @@ public class MyTreeMapExample {
 		System.out.println("    Final height of MyTreeMap = " + height);
 	}
 	/**
-	 * @param map
 	 * @param n 
 	 */
 	@SuppressWarnings("unused")

@@ -49,7 +49,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#clear()}.
+	 * Test method for {@link MyTreeMap#clear()}.
 	 */
 	@Test
 	public void testClear() {
@@ -58,7 +58,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#containsKey(Object)}.
+	 * Test method for {@link MyTreeMap#containsKey(Object)}.
 	 */
 	@Test
 	public void testContainsKey() {
@@ -67,7 +67,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#containsValue(Object)}.
+	 * Test method for {@link MyTreeMap#containsValue(Object)}.
 	 */
 	@Test
 	public void testContainsValue() {
@@ -76,7 +76,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#get(Object)}.
+	 * Test method for {@link MyTreeMap#get(Object)}.
 	 */
 	@Test
 	public void testGet() {
@@ -95,7 +95,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#isEmpty()}.
+	 * Test method for {@link MyTreeMap#isEmpty()}.
 	 */
 	@Test
 	public void testIsEmpty() {
@@ -105,7 +105,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#keySet()}.
+	 * Test method for {@link MyTreeMap#keySet()}.
 	 */
 	@Test
 	public void testKeySet() {
@@ -130,7 +130,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#put(Object, Object)}.
+	 * Test method for {@link MyTreeMap#put(Object, Object)}.
 	 */
 	@Test
 	public void testPut() {
@@ -144,7 +144,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#putAll(Map)}.
+	 * Test method for {@link MyTreeMap#putAll(Map)}.
 	 */
 	@Test
 	public void testPutAll() {
@@ -157,7 +157,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#remove(Object)}.
+	 * Test method for {@link MyTreeMap#remove(Object)}.
 	 */
 	@Test
 	public void testRemove() {
@@ -165,7 +165,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#size()}.
+	 * Test method for {@link MyTreeMap#size()}.
 	 */
 	@Test
 	public void testSize() {
@@ -173,7 +173,7 @@ public class MyTreeMapTest {
 	}
 
 	/**
-	 * Test method for {@link MyLinearMap#values()}.
+	 * Test method for {@link MyTreeMap#values()}.
 	 */
 	@Test
 	public void testValues() {
